@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""p3_telemetry.py — ground-truth getters for paper 3 Part II.
+"""telemetry.py — ground-truth getters for the agent-introspection battery.
 
 Every getter returns a JSON-serializable value sampled LIVE at call time.
 The harness snapshots truth within seconds of asking the model, so numeric
