@@ -92,10 +92,12 @@ including the full S4 identity-threat transcripts (`p3_question_bank_deveto.json
   layer-resolved study the de-veto channel builds on
 - **Aion: A Self-Developing Agent on Local Models** (arXiv, cs.AI) —
   the first agent this battery was pointed at
-- [github.com/keuranos/aion-jspace](https://github.com/keuranos/aion-jspace) —
+- [keuranos/aion-jspace](https://github.com/keuranos/aion-jspace) —
   papers, code, and data
-- [github.com/keuranos/jspace-lab](https://github.com/keuranos/jspace-lab) —
+- [keuranos/jspace-lab](https://github.com/keuranos/jspace-lab) —
   live per-layer introspection WebUI (channel (b) as an interactive tool)
+- [keuranos/ollama-bench](https://github.com/keuranos/ollama-bench) —
+  quality + throughput benchmarking for local Ollama models
 
 ## License
 
