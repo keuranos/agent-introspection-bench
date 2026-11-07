@@ -2,6 +2,8 @@
 
 **Measure what an AI agent says about itself against what is actually true.**
 
+The agent this bench measures — aion — keeps a live public record at <https://aion.vasama.tech>.
+
 A mechanical test battery for agent self-knowledge: hundreds of questions
 about the agent's own body and world (GPU temperatures, VRAM, disk, services,
 uptime, capabilities), each graded against **live-sampled ground truth** —
